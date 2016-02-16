@@ -50,3 +50,4 @@ My original attempt to put `MESOS_DOCKER_SOCKET` and `MESOS_EXECUTOR_ENVIRONMENT
   - [Setting up a Mesos and Marathon Cluster](https://open.mesosphere.com/getting-started/install/)
   - [Launch docker container on mesosphere](https://github.com/mesosphere/open-docs/blob/master/tutorials/launch-docker-container-on-mesosphere.md)
   - [Using a Private Docker Registry](https://mesosphere.github.io/marathon/docs/native-docker-private-registry.html)
+  - [Weave.works](http://weave.works)
