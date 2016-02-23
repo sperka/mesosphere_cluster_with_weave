@@ -8,6 +8,9 @@
 
 ### Prep
 
+# iTerm2 shell integration
+curl -L https://iterm2.com/misc/install_shell_integration.sh | bash
+
 # settings
 IP_MASTER=10.2.124.12
 

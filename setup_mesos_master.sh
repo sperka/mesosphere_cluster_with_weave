@@ -6,6 +6,9 @@
 
 ### Prep
 
+# iTerm2 shell integration
+curl -L https://iterm2.com/misc/install_shell_integration.sh | bash
+
 # Get current ip - this is the master ip
 IP_MASTER=`ip route get 8.8.8.8 | awk '{print $NF; exit}'`
 
